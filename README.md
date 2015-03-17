@@ -1,1 +1,4 @@
-# OpenCup sources
+# Contests sources
+- OpenCup
+- Codeforces
+- RCC
