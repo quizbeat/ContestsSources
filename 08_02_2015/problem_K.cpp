@@ -176,20 +176,20 @@ public:
 };
 
 int main() {
-    
+
     more_speed
-    
+
     // for testing
     //ifstream in("/Users/air/Documents/dev/contest/contest/in");
     //ofstream out("/Users/air/Documents/dev/contest/contest/out");
-    
+
     // for submit
     //ifstream in("kickdown.in");
     //ofstream out("kickdown.out");
 
     int t;
     in >> t;
-    
+
     for (int k = 0; k < t; k++) {
         reserve = 20;
         map<string, item *> system;
@@ -197,28 +197,28 @@ int main() {
         in >> a >> b >> c >> d;
         string name;
         in.get();
-        
+
         for (int i = 0; i < a; i++) {
             getline(in, name);
             item *newItem = new cat1(name);
             system[name] = newItem;
             //cout << i << " " << name << endl;
         }
-        
+
         for (int i = 0; i < b; i++) {
             getline(in, name);
             item *newItem = new cat2(name);
             system[name] = newItem;
             //cout << i << " " << name << endl;
         }
-        
+
         for (int i = 0; i < c; i++) {
             getline(in, name);
             item *newItem = new cat3(name);
             system[name] = newItem;
             //cout << i << " " << name << endl;
         }
-        
+
         for (int i = 0; i < d; i++) {
             getline(in, name);
             if (!nextIter) {
@@ -229,10 +229,10 @@ int main() {
         }
         nextIter = false;
     }
-    
+
     in.close();
     out.close();
-    
+
     return 0;
 }
 
@@ -262,7 +262,5 @@ motherboard
 motherboard
 motherboard
 
- 
+
  */
-
-
