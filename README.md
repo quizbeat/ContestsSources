@@ -3,7 +3,7 @@
 ### 2014
 - 19.10.2014 - *Grand Prix of SPb* - 1 problem solved;
 - 02.11.2014 - *Grand Prix of Siberia* - 3 problems solved;
-- 16.11.2014 - *Grand Prix of Central Europe* - 1 problem solved; **(div 1, trouble with contest page)**
+- 16.11.2014 - *Grand Prix of Central Europe* - 1 problem solved;
 - 23.11.2014 - *Grand Prix of Europe* - 5 problems solved;
 - 14.12.2014 - *Grand Prix of Peterhof* - 1 problem solved.
 
