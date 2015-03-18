@@ -9,7 +9,7 @@
 
 ### 2015
 - 01.02.2015 - *Grand Prix of Japan* - 4 problems solved;
-- 08.02.2015 - *Northern Grand Prix* -
+- 08.02.2015 - *Northern Grand Prix* - 2 problems solved;
 - 15.02.2015 - *Grand Prix of Karelia* -
 - 22.02.2015 - *Grand Prix of Udmurtia* -
 - 01.03.2015 - *Grand Prix of China* -
