@@ -15,6 +15,5 @@
 - 01.03.2015 - *Grand Prix of China* - 1 problem solved;
 - 15.03.2015 - *Grand Prix of Tatarstan* - 1 problem solved;
 - 29.03.2015 - *Grand Prix of America* - 4 problems solved;
-- 12.04.2015 11:00 - *Reserved*
-- 19.04.2015 12:00 - *Grand Prix of NorthWest (possible Vekua Cup and GP of Southern Caucasus)*
-- 26.04.2015 11:00 - *Grand Prix of Ural*
+- 19.04.2015 - *Vekua Cup* - 3 problems solved;
+- 26.04.2015 - *Grand Prix of Ural* - 2 problems solved;
