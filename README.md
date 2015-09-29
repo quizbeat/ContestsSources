@@ -19,4 +19,5 @@
 - 26.04.2015 - *Grand Prix of Ural* - 2 problems solved;
 
 ### 2015 - Fall/Winter
-- 13.09.2015 - *Grand Prix of Ukraine* - 3 problems solved;
+- 13.09.2015 - *Grand Prix of Ukraine* - 3 problems solved (1 upsolved);
+- 27.09.2015 - *Grand Prix of Japan* - 5 problems solved;
