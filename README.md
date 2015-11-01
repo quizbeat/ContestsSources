@@ -23,3 +23,5 @@
 - 27.09.2015 - *Grand Prix of Japan* - 5 problems solved;
 - 04.10.2015 - *Grand Prix of Eurasia* - 4 problems solved;
 - 11.10.2015 - *Grand Prix of SPb* - 2 problems solved;
+- 18.10.2015 - *ACM ICPC 1/4 Final* - 2 problems solved;
+- 01.11.2015 - *Grand Prix of Yekaterinburg* - 4 problems solved;
