@@ -27,3 +27,4 @@
 - 01.11.2015 - *Grand Prix of Yekaterinburg* - 4 problems solved;
 - 08.11.2015 - *Grand Prix of Siberia* - 6 problems solved;
 - 22.11.2015 - *Grand Prix of Europe* - 3 problems solved;
+- 20.12.2015 - *Grand Prix of Peterhof* - 4 problems solved;
