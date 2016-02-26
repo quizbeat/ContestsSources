@@ -28,3 +28,8 @@
 - 08.11.2015 - *Grand Prix of Siberia* - 6 problems solved;
 - 22.11.2015 - *Grand Prix of Europe* - 3 problems solved;
 - 20.12.2015 - *Grand Prix of Peterhof* - 4 problems solved;
+
+### 2016 - Winter/Spring
+- 31.01.2016 - *Grand Prix of Asia* - 3 problems solved;
+- 07.02.2016 - *Grand Prix of Saratov* - 3 problems solved;
+- 14.02.2016 - *Grand Prix of China* - 4 problems solved;
