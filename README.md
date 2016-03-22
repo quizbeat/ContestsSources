@@ -34,3 +34,5 @@
 - 07.02.2016 - *Grand Prix of Saratov* - 3 problems solved;
 - 14.02.2016 - *Grand Prix of China* - 4 problems solved;
 - 28.02.2016 - *Grand Prix of Bashkortostan* - 7 problems solved;
+- 13.03.2016 - *Grand Prix of Tatarstan* - 2 problems solved;
+- 20.03.2016 - *Grand Prix of Baltics* - 3 problems solved;
