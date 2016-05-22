@@ -36,3 +36,5 @@
 - 28.02.2016 - *Grand Prix of Bashkortostan* - 7 problems solved;
 - 13.03.2016 - *Grand Prix of Tatarstan* - 2 problems solved;
 - 20.03.2016 - *Grand Prix of Baltics* - 3 problems solved;
+- 03.04.2016 - *Grand Prix of Moscow* - 2 problems solved;
+- 24.04.2016 - *Vekua Cup* - 1 problem solved; 
